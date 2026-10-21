@@ -3,7 +3,7 @@ import shutil
 import sys
 from pathlib import Path
 
-ROOT = Path(r"C:\Users\abdal\OneDrive\Documents\FakeFolder").resolve()
+ROOT = Path(r"C:\Users\YourName\Documents\School").resolve()
 OTHER = ROOT / "other"
 
 if not ROOT.is_dir():
